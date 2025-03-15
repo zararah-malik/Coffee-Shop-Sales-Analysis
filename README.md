@@ -95,6 +95,4 @@ The data preparation process included:
 - **`Problem Statements.pdf`** – Contains the business questions and queries used for analysis.  
 - **`Coffee Sales Report.png`** – Snapshot of the interactive dashboard.
 - **`Coffee Sales Dashboard and cleaned data.xlsx`** – A file containing Cleaned data and dashboard. 
-
-📌 **Author:** [Zararah Malik]  
-📅 **Date:** [February, 2025]  
+ 
